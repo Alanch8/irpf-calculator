@@ -13,7 +13,7 @@ npm install
 We can open the app using
 
 ```javascript
-npm serve --o
+ng serve --o
 ```
 
 
